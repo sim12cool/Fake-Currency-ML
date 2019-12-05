@@ -1,8 +1,4 @@
-# Machine Learning Engineer Nanodegree
-# Capstone Project - Supervised Learning
-## Capstone Project: Identification of Fake Currency Notes
 
-### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
